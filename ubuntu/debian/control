@@ -1,4 +1,4 @@
-Source: cloudsim-client-tools
+Source: cloudsim-client-tools-exp
 Standards-Version: 3.9.3
 Maintainer: Hugo Boyer <hugo@osrfoundation.org>
 Section: devel
@@ -6,7 +6,7 @@ Priority: extra
 Build-Depends: cmake, debhelper (>= 7.0.50~) 
 Homepage: http://osrfoundation.org
 
-Package: cloudsim-client-tools
+Package: cloudsim-client-tools-exp
 Architecture: any
 Section: devel
 Priority: extra
