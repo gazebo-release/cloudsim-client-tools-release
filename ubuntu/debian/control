@@ -10,7 +10,7 @@ Package: cloudsim-client-tools
 Architecture: any
 Section: devel
 Priority: extra
-Depends: ${misc:Depends}
+Depends: iproute ${misc:Depends}
 Description: utilities for cloud based virtual simulation instances
  utilities for cloud based virtual simulation instances
 Homepage: http://osrfoundation.org
