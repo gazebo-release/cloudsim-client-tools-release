@@ -3,14 +3,14 @@ Standards-Version: 3.9.3
 Maintainer: Hugo Boyer <hugo@osrfoundation.org>
 Section: devel
 Priority: extra
-Build-Depends: cmake, debhelper (>= 7.0.50~) 
+Build-Depends: cmake, debhelper (>= 7.0.50~), fping, python-redis, redis-server 
 Homepage: http://osrfoundation.org
 
 Package: cloudsim-client-tools
 Architecture: any
 Section: devel
 Priority: extra
-Depends: iproute ${misc:Depends}
+Depends: iproute ${misc:Depends}, fping, python-redis, redis-server
 Description: utilities for cloud based virtual simulation instances
  utilities for cloud based virtual simulation instances
 Homepage: http://osrfoundation.org
