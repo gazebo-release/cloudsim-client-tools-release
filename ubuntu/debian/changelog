@@ -1,3 +1,9 @@
+cloudsim-client-tools (0.9.8-1~precise) precise; urgency=high
+
+  * Release 0.9.8
+
+ -- Carlos Agüero <caguero@osrfoundation.org> Tue, 05 Mar 2013 09:17:03 -0700
+
 cloudsim-client-tools (0.9.7-1~precise) precise; urgency=high
 
   * Release 0.9.7
