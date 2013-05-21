@@ -1,0 +1,16 @@
+Source: cloudsim-client-tools
+Standards-Version: 3.9.3
+Maintainer: Hugo Boyer <hugo@osrfoundation.org>
+Section: devel
+Priority: extra
+Build-Depends: cmake, debhelper (>= 7.0.50~), libpcap-dev, libhiredis-dev
+Homepage: http://osrfoundation.org
+
+Package: cloudsim-client-tools
+Architecture: any
+Section: devel
+Priority: extra
+Depends: iproute ${misc:Depends}, fping, python-redis, redis-server, libpcap-dev, libhiredis0.10 
+Description: utilities for cloud based virtual simulation instances
+ utilities for cloud based virtual simulation instances
+Homepage: http://osrfoundation.org
