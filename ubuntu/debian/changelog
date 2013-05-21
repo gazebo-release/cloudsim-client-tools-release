@@ -1,3 +1,9 @@
+cloudsim-client-tools (0.10.0-1~precise) precise; urgency=high
+                                                                                
+  * Release 0.10.0
+                                                                                
+ -- Brian Gerkey <gerkey@osrfoundation.org> Tue, 21 May 2013 18:30:03 -0700
+
 cloudsim-client-tools (0.9.12-1~precise) precise; urgency=high
                                                                                 
   * Release 0.9.12
