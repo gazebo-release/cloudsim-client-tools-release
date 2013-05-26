@@ -1,3 +1,9 @@
+cloudsim-client-tools (0.10.1-1~precise) precise; urgency=high
+                                                                                
+  * Release 0.10.1
+                                                                                
+ -- Jose Luis Rivero <jrivero@osrfoundation.org> Sun, 26 May 2013 11:27:03 -0700
+
 cloudsim-client-tools (0.9.2-1~quantal) quantal; urgency=high
 
   * Release 0.9.2
