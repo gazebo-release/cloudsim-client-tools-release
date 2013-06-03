@@ -1,3 +1,9 @@
+cloudsim-client-tools (0.10.2-1~quantal) quantal; urgency=high
+                                                                                
+  * Release 0.10.2
+                                                                                
+ -- Brian Gerkey <gerkey@osrfoundation.org> Mon, 3 Jun 2013 18:30:03 -0700
+
 cloudsim-client-tools (0.10.1-1~quantal) quantal; urgency=high
                                                                                 
   * Release 0.10.1
